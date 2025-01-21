@@ -6,3 +6,8 @@ ini adalah resolusi xiipplg 2 untuk semester genap 2025
 - praktik github
    * membuat repositori
    * membuat file resolusi-xiipplg2.txt
+- mengedit file
+   * menghapus registrasi themoviedb.org
+   * menghapus registrasi Github.com
+   * menghapus registrasi Gitlab.com
+
